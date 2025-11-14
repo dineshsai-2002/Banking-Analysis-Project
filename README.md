@@ -136,8 +136,8 @@ python banking_dashboard_combined.py
 
 📈 Insights Generated:
 ----------------------
-26–40 age group dominates customer base
-Home & Business loans have the highest disbursement
+46–60 age group dominates customer base
+Education & Home loans have the highest disbursement
 Deposits are the most frequent transactions
 High-value transactions concentrated in metro cities
 Loan defaulters often belong to lower-income segments
